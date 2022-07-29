@@ -1,0 +1,28 @@
+{
+  "alunos": [
+    { "nome": "Michael", "stack": "front-end" },
+    { "nome": "Matheus", "stack": "full-stack" },
+    { "nome": "Guilherme", "stack": "full-stack" },
+    { "nome": "Jhonathan", "stack": "full-stack" },
+    { "nome": "Samuel", "stack": "full-stack" },
+    { "nome": "André", "stack": "full-stack" },
+    { "nome": "Diego", "stack": "full-stack" },
+    { "nome": "Lucas", "stack": "front-end" },
+    { "nome": "Caetano", "stack": "full-stack" },
+    { "nome": "Théo", "stack": "full-stack" },
+    { "nome": "Gustavo Martins", "stack": "full-stack" },
+    { "nome": "Marcelo", "stack": "fullstack" },
+    { "nome": "Ricardo", "stack": "full-stack" },
+    { "nome": "Michael", "stack": "front-end" },
+    { "nome": "Douglas Oliveira", "stack": "JAMStack" },
+    { "nome": "Caio", "stack": "back-end" },
+    { "nome": "Tomás", "stack": "front-end" },
+    { "nome": "Carla", "stack": "full-stack" },
+    { "nome": "Eduarda", "stack": "back-end" },
+    { "nome": "Anderson", "stack": "full-stack" },
+    { "nome": "Otávio", "stack": "back-end" },
+    { "nome": "Leandro", "stack": "full-stack" },
+    { "nome": "Karla", "stack": "front-end" },
+    { "nome": "Darlan", "stack": "full-stack" }
+  ]
+}
